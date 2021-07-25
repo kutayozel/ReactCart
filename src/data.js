@@ -20,7 +20,7 @@ export default [
     title: 'Xiaomi Redmi Note 2',
     price: 699.99,
     img:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1583368224/phone-3_h2s6fo.png',
+      'https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7c024263-1ba6-40d5-9313-24644b52fcfa/waffle-one-womens-shoes-VpSJT2.png',
     amount: 1,
   },
 ];
